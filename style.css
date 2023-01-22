@@ -1,0 +1,9 @@
+img {
+    width: 45%;
+    object-fit: contain;
+    transform: scale(1);
+}
+
+img:hover {
+    transform: scale(1.5);
+}
